@@ -1,0 +1,53 @@
+/* holabor */
+*{
+    box-sizing: border-box;  
+}
+body
+{
+    margin: 0;
+    padding: 0;
+}
+h1 
+{
+    font-family: 'Press Start 2P', cursive;
+    font-size: 80px;
+}
+.box
+{
+    height: 400px;
+    margin: 8px; 
+    padding: 10px;
+    border: 5px solid violet;
+    background-color: pink;
+    background-image: url("../images/rosa.png");
+    color: blueviolet;
+    /* (propiedades de encuadre de background)*/ 
+    background-size: 300px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+h2
+{
+    font-family: 'Tulpen One', cursive;
+    font-size: 80px;
+    text-align: center;
+}
+.box-2
+{
+    height: 400px;
+    margin: 8px; 
+    padding: 10px;
+    border: 5px solid orange;
+    background-color: yellow;
+    background-image: url("../images/homer.png");
+    color: blue;
+    /* (propiedades de encuadre de background)*/ 
+    background-size: 300px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+h3
+{
+    font-family: 'Gloria Hallelujah', cursive;
+}
